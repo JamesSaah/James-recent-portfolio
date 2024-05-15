@@ -220,6 +220,15 @@ input{
     background-color: #d00000;
     color: #ffff;
 }
+.project-home{
+    position: fixed;
+    bottom: 0;
+    left: 50%;
+    transform: translateX(-50%);
+    color: black;
+    font-size: 40px;
+    margin-top: 2rem;
+}
 
 
 
